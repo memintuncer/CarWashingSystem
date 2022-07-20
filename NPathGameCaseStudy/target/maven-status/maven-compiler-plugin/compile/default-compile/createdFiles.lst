@@ -1,0 +1,10 @@
+model\SoapType.class
+model\WashingSystem$1.class
+model\WashingSystem$Type.class
+database\MyDataBase.class
+manager\WashingManager$1.class
+model\Vehicle.class
+manager\OutputWriter.class
+manager\WashingManager.class
+main\Main.class
+model\WashingSystem.class

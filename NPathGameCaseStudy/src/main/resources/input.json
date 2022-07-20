@@ -1,0 +1,53 @@
+{
+  "vehicles": [
+    {
+      "id": 1,
+      "dirtiness": 100,
+      "soap_rates": {
+        "foam": 0.3,
+        "watery": 0.3
+      }   
+    },
+    {
+      "id": 2,
+      "dirtiness": 80,
+      "soap_rates": {
+        "foam": 0.1,
+        "watery": 0.4
+      }    
+    },
+    {
+      "id": 3,
+      "dirtiness": 120,
+      "soap_rates": {
+        "foam": 0.3,
+        "watery": 0.2
+      }     
+    },
+    {
+      "id": 4,
+      "dirtiness": 90,
+      "soap_rates": {
+        "foam": 0.3,
+        "watery": 0.4
+      }   
+    }
+  ],
+  "washing_systems": [
+    {
+      "id": 1,
+      "soap_type": "foam",
+      "type": "fifo"
+    },
+    {
+      "id": 2,
+      "soap_type": "watery",
+      "type": "random"
+    },
+    {
+      "id": 3,
+      "soap_type": "foam",
+      "type": "random"
+    }
+  ]
+}
